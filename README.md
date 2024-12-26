@@ -1,4 +1,4 @@
-![Demo App](/public/Screenshot 2024-12-26 155432.png)
+![Demo App](public/Screenshot 2024-12-26 155432.png)
 
 # Run Locally
 
