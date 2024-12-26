@@ -1,4 +1,4 @@
-# RECIPE APP
+# Recipe App
 
 ![Demo App](/public/sss.png)
 
